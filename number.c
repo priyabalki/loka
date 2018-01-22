@@ -1,6 +1,6 @@
 #include<stdio.h>
 #inlcude<conio.h>
-int main
+int main()
 {
 int a;
 if(a>0)
