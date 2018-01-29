@@ -5,6 +5,11 @@ void main()
  char o;
  printf("enter the alphabet");
  scanf("%c",&o);
- if('a<=o<=z'||'A<=o<=Z')
- printf
+ if(('a'<=o<='z')||('A<=o<=Z'))
+  printf("Alphabet");
+ else
+  printf("No");
+}
+ 
+ 
  
