@@ -13,7 +13,7 @@ flag=1;
 break;
 }
 if(flag==0)
-printf("the given number is prime number");
+printf("Yes");
 else
-printf("the given number is not a prime number")
+printf("No")
 }
